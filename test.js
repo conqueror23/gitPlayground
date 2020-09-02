@@ -1,7 +1,7 @@
 
 
 
-and changes from bruc ech and we are going to be confliect in  b branch her  
+This is bruce
 ad a new line maybe ?
 
 we are going to hacnage hater her e
