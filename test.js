@@ -1,6 +1,8 @@
 
+we are change some thing lese here
 
 
-this is actually from bruce branch and concliect happens from master branch and we are going to be confliect in  b branch her  
+and changes from bruc ech and we are going to be confliect in  b branch her  
+ad a new line maybe ?
 
 we are going to hacnage hater her e
